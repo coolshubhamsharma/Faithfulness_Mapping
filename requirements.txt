@@ -1,0 +1,9 @@
+faiss-cpu
+sentence-transformers
+python-docx
+PyPDF2
+matplotlib
+numpy
+scikit-learn
+tqdm
+openai  # optional, not required for local RAG
